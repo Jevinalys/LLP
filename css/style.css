@@ -104,6 +104,15 @@
     background-size: cover;
 }
 
+.bg-image {
+	background-image: url("../img/backlogo.png");
+	background-repeat:no-repeat;
+	background-position:top;
+	background-size:100%
+
+}
+
+
 @media (min-width: 991.98px) {
     .banner {
         position: relative;
